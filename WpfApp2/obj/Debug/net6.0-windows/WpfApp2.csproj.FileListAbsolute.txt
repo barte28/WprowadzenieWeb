@@ -19,3 +19,11 @@ C:\Users\programista\source\repos\WpfWprowadzenie\WpfApp2\obj\Debug\net6.0-windo
 C:\Users\programista\source\repos\WpfWprowadzenie\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.pdb
 C:\Users\programista\source\repos\WpfWprowadzenie\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.genruntimeconfig.cache
 C:\Users\programista\source\repos\WpfWprowadzenie\WpfApp2\obj\Debug\net6.0-windows\ref\WpfApp2.dll
+C:\Users\programista\source\repos\WpfWprowadzenie\WpfApp2\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\programista\source\repos\WpfWprowadzenie\WpfApp2\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\programista\source\repos\WpfWprowadzenie\WpfApp2\obj\Debug\net6.0-windows\Window2.g.cs
+C:\Users\programista\source\repos\WpfWprowadzenie\WpfApp2\obj\Debug\net6.0-windows\Window3.g.cs
+C:\Users\programista\source\repos\WpfWprowadzenie\WpfApp2\obj\Debug\net6.0-windows\Window2.baml
+C:\Users\programista\source\repos\WpfWprowadzenie\WpfApp2\obj\Debug\net6.0-windows\Window3.baml
+C:\Users\programista\source\repos\WpfWprowadzenie\WpfApp2\obj\Debug\net6.0-windows\Window4.g.cs
+C:\Users\programista\source\repos\WpfWprowadzenie\WpfApp2\obj\Debug\net6.0-windows\Window4.baml
