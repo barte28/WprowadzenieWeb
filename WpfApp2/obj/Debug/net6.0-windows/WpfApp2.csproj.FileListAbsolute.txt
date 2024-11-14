@@ -27,3 +27,5 @@ C:\Users\programista\source\repos\WpfWprowadzenie\WpfApp2\obj\Debug\net6.0-windo
 C:\Users\programista\source\repos\WpfWprowadzenie\WpfApp2\obj\Debug\net6.0-windows\Window3.baml
 C:\Users\programista\source\repos\WpfWprowadzenie\WpfApp2\obj\Debug\net6.0-windows\Window4.g.cs
 C:\Users\programista\source\repos\WpfWprowadzenie\WpfApp2\obj\Debug\net6.0-windows\Window4.baml
+C:\Users\programista\source\repos\WpfWprowadzenie\WpfApp2\obj\Debug\net6.0-windows\Window5.g.cs
+C:\Users\programista\source\repos\WpfWprowadzenie\WpfApp2\obj\Debug\net6.0-windows\Window5.baml

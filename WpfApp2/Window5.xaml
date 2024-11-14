@@ -6,7 +6,30 @@
         xmlns:local="clr-namespace:WpfApp2"
         mc:Ignorable="d"
         Title="Window5" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+    <StackPanel Orientation="Horizontal">
+        <Button>Przycisk</Button>
+        <Button>Przycisk</Button>
+        <Button>Przycisk</Button>
+
+        <UniformGrid>
+            <Button>Przycisk</Button>
+            <Button>Przycisk</Button>
+            <Button>Przycisk</Button>
+            <Button>Przycisk</Button>
+        </UniformGrid>
+
+        <WrapPanel>
+            <Button>Przycisk</Button>
+            <Button>Przycisk</Button>
+            <Button>Przycisk</Button>
+        </WrapPanel>
+
+        <DockPanel>
+            <Button DockPanel.Dock="Top">Przycisk1</Button>
+            <Button DockPanel.Dock="Left">Przycisk2</Button>
+            <Button DockPanel.Dock="Top">Przycisk3</Button>
+            <Button DockPanel.Dock="Left">Przycisk4</Button>
+            <Button>Przycisk5</Button>
+        </DockPanel>
+    </StackPanel>
 </Window>
